@@ -6,4 +6,4 @@ Nonetheless, this might be useful for other projects, as such we have published 
 For any questions for comments feel free to reach out
 
 Shmuel Barkin
-sb@sbarkin.coom
+sb@sbarkin.com
